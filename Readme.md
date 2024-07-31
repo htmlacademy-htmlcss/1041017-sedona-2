@@ -2,6 +2,7 @@
 
 * Студент: [Алексей Нагорных](https://up.htmlacademy.ru/htmlcss-individual/2/user/1041017).
 * Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
+* Сайт: [Мой проект Седона](https://aleksei-man.github.io/1041017-sedona-2/).
 
 ---
 
