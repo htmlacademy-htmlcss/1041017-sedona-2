@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алексей Нагорных](https://up.htmlacademy.ru/htmlcss-individual/2/user/1041017).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 
