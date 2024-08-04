@@ -135,14 +135,50 @@
         <a href="#" class="button button-all">ПОИСК ГОСТИНИЦЫ В седоне</a>
       </section>
       <section class="subscribe">
-        <span class="subscribe-title">Подпишитесь на рассылку</span>
+        <h2 class="subscribe-title">Подпишитесь на рассылку</h2>
         <p class="subscribe-description">Только полезная информация и никакого спама, честное бойскаутское!</p>
-        <form action="htpps://echo.htmlacademy.ru/" method="post" class="appointment-form">
-          <input type="text" name="appointment-email" placeholder="Ваш e-mail">
-          <button class="button" type="submit">Подписаться</button>
+        <form action="htpps://echo.htmlacademy.ru/" method="post" class="newsletter-form">
+          <label for="newsletter-email">email</label>
+          <input type="email" name="newsletter-email" placeholder="Ваш e-mail" id="newsletter-email" required class="field">
+          <button class="button newsletter-button" type="submit">Подписаться</button>
         </form>
       </section>
     </main>
+
+    <footer class="page-footer">
+      <section class="footer-social">
+        <h2 class="visually-hidden">Ссылки на социальные сети</h2>
+        <ul class="footer-social-list">
+          <li class="footer-sicial-item">
+            <a href="https://vk.com/htmlacademy" class="button">
+              <span class="visually-hidden">Вконтакте</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="footer-social-list">
+          <li class="footer-sicial-item">
+            <a href="https://t.me/htmlacademy" class="button">
+              <span class="visually-hidden">Телеграм</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="footer-social-list">
+          <li class="footer-sicial-item">
+            <a href="https://www.youtube.com/user/htmlacademyru" class="button">
+              <span class="visually-hidden">Ютуб</span>
+            </a>
+          </li>
+        </ul>
+      </section>
+      <section class="contacts">
+        <h2 class="visually-hidden">Номер телефона</h2>
+        <a href="tel:88128121212" class="contacts-phone">+7 (812) 812-12-12</a>
+      </section>
+      <section class="footer-logo">
+        <h2 class="visually-hidden">Логотип разработчика</h2>
+        <a href="https://htmlacademy.ru/" class="htmlacademy-link"><img src="#" alt="Логотип htmlacademy"></a>
+      </section>
+    </footer>
 
   </body>
 </html>
