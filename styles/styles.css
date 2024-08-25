@@ -170,7 +170,7 @@ body  {
   text-decoration: none;
 }
 
-.subscribe  {
+.subscribe.subscribe-special  {
   color: #ffffff;
   background-color: #000000;
   background-image: url("../images/subscribe-background.jpg");
@@ -261,7 +261,7 @@ body  {
   font-weight: 700;
 }
 
-.control-name {
+.control-name  {
   font-size: 18px;
   line-height: 23px;
   font-weight: 400;
@@ -373,7 +373,7 @@ body  {
   background-color: #f2f2f2;
 }
 
-.subscribe-more  {
+.subscribe  {
   color: inherit;
   background-color: #ffffff;
   background-image: none;
